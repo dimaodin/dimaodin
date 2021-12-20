@@ -29,8 +29,6 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
   
 ##### Technologies & Tools
-- Soon
-
 <p>
 
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -45,7 +43,7 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/webflow/webflow-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -54,13 +52,10 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
 </p>
 
 <p align="center">
-  [![HitCount](http://hits.dwyl.com/dimaodin/dimaodin.svg?style=flat)](http://hits.dwyl.com/dimaodin/dimaodin)
+   <img alt="ViewCount" src="http://hits.dwyl.com/dimaodin/dimaodin.svg?style=flat" />
 </p>
 
 <p align="center">
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
-      <img alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png" height="50" width="210"/>
-  </a>
   <a href="https://www.buymeacoffee.com/dimaodin" target="_blank">
       <img alt="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210"/>
   </a>
