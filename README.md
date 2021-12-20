@@ -14,8 +14,6 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimaodin/)
 <img alt="ViewCount" src="http://hits.dwyl.com/dimaodin/dimaodin.svg?style=flat" />
 
-&nbsp;
-
 <h6>
 I build <a href="https://dimaodin.com">websites</a>,
 <a href="https://dimaodin.com">apps</a> &
