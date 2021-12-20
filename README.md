@@ -33,7 +33,7 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
 - 🌍 I'm mostly active within the **Next.js & Webflow** communities
 - ✨ Crafted last [Vinovaso](https://vinovaso.vercel.app/) website
 - 🌱 Learning all about **Web3**
-- 💬 Ping me about **front-end dev**, **web3.js**, **webflow**, **design thinking**
+- 💬 Ping me about **front-end dev**, **web3**, **webflow**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of Healthy shakes.
   
 ##### Technologies & Tools
