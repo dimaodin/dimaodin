@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 <h6>
 I build <a href="https://dimaodin.com">websites</a>,
 <a href="https://dimaodin.com">apps</a> &
-write little <a href="https://dimaodin.com/blog">articles</a>.
+write small <a href="https://dimaodin.com/blog">articles</a>.
 <br>
 Really passionate about clean, smooth & intuitive digital experiences.
 <br>
