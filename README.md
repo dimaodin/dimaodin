@@ -6,6 +6,19 @@ I'm Dima Odintsov,
 a Front-end Developer working in Israel.
 </h3>
 
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
+<img alt="ViewCount" src="http://hits.dwyl.com/dimaodin/dimaodin.svg?style=flat" />
+
+&nbsp;
+
 <h6>
 I build <a href="https://dimaodin.com">websites</a>,
 <a href="https://dimaodin.com">apps</a> &
@@ -49,10 +62,6 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
-
-<p align="center">
-   <img alt="ViewCount" src="http://hits.dwyl.com/dimaodin/dimaodin.svg?style=flat" />
 </p>
 
 <p align="center">
