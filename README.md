@@ -31,17 +31,13 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
 - 🏢 I'm currently working as **Freelance Web Developer.**
 - ⚙️ Daily use: `.js`, `.ts`, `.html`, `.css`, `.svg`, `.psd`, `.md`
 - 🌍 I'm mostly active within the **Next.js & Webflow** communities
-- ✨ Crafted last [Vinovaso](https://vinovaso.vercel.app/) website; -
+- ✨ Crafted last [Vinovaso](https://vinovaso.vercel.app/) website
 - 🌱 Learning all about **Web3**
 - 💬 Ping me about **front-end dev**, **web3.js**, **webflow**, **design thinking**
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- ⚡️ Fun fact: I'm a huge fan of Healthy shakes.
   
 ##### Technologies & Tools
 <p>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -74,4 +70,3 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
 </p>
 
 <h6>Love, Dima Odintsov ❤️</h6>
-
