@@ -63,6 +63,8 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/dimaodin" target="_blank">
       <img alt="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210"/>
