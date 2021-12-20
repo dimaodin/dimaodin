@@ -29,7 +29,7 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
 ##### BIO
 
 - 🏢 I'm currently working as **Freelance Web Developer.**
-- ⚙️ Daily use: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ Daily use: `.js`, `.ts`, `.html`, `.css`, `.svg`, `.psd`, `.md`
 - 🌍 I'm mostly active within the **Next.js & Webflow** communities
 - ✨ Crafted last [Vinovaso](https://vinovaso.vercel.app/) website; -
 - 🌱 Learning all about **Web3**
