@@ -12,7 +12,6 @@ You can use the website to generate badges: https://shields.io/
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:hey@dimaodin.com?subject=I%20wanted%20to%20discuss%20a%20new%20project.&body=Hi!%20My%20name%20is%20_%2C%20and%20i%20want%20a%20brand%20new%20web%20experience!%20%F0%9F%8E%89)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dimaodin)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimaodin/)
-<img alt="ViewCount" src="http://hits.dwyl.com/dimaodin/dimaodin.svg?style=flat" />
 
 <h6>
 I build <a href="https://dimaodin.com">websites</a>,
