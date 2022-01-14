@@ -29,10 +29,10 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
 
 - 🏢 I'm currently working as **Freelance Web Developer.**
 - ⚙️ Daily use: `.js`, `.ts`, `.html`, `.css`, `.dart`, `.svg`, `.psd`, `.md`
-- 🌍 I'm mostly active within the **Next.js & Webflow** communities
+- 🌍 I'm mostly active within the **React & Flutter** communities
 - ✨ Crafted last [Vinovaso](https://vinovaso.vercel.app/) website
 - 🌱 Learning all about **Web3**
-- 💬 Ping me about **front-end dev**, **web3**, **webflow**, **design thinking**
+- 💬 Ping me about **next.js**, **flutter**, **webflow**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of Healthy shakes.
   
 ##### Technologies & Tools
