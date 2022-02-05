@@ -20,7 +20,7 @@ write small <a href="https://dimaodin.com/blog">articles</a>.
 <br>
 Really passionate about clean, smooth & intuitive digital experiences.
 <br>
-Intersted in the entire front-end spectrum, with high attention to detail.
+Interested in the entire front-end spectrum, with high attention to detail.
 <br>
 Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaodin.com?subject=I%20wanted%20to%20discuss%20a%20new%20project.&body=Hi!%20My%20name%20is%20_%2C%20and%20i%20want%20a%20brand%20new%20web%20experience!%20%F0%9F%8E%89">Reach me now! 📫</a>
 </h6>
