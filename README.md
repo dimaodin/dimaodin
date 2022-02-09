@@ -28,7 +28,7 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
 ##### BIO
 
 - 🏢 I'm currently working as **Freelance Web Developer.**
-- ⚙️ Daily use: `.js`, `.ts`, `.html`, `.css`, `.dart`, `.svg`, `.psd`, `.md`
+- ⚙️ Daily use: `.js`, `.ts`, `.html`, `.scss`, `.css`, `.dart`, `.svg`, `.psd`, `.md`
 - 🌍 I'm mostly active within the **React & Webflow** communities
 - ✨ Crafted last [Vinovaso](https://vinovaso.vercel.app/) website
 - 🌱 Learning all about **Web3**
