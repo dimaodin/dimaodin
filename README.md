@@ -14,8 +14,8 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimaodin/)
 
 <h6>
-I build <a href="https://dimaodin.com">websites</a>,
-<a href="https://dimaodin.com">apps</a> &
+I build <a href="https://dimaodin.com/work">websites</a>,
+<a href="https://dimaodin.com/work">apps</a> &
 write small <a href="https://dimaodin.com/blog">articles</a>.
 <br>
 Really passionate about clean, smooth & intuitive digital experiences.
