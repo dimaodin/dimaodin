@@ -1,6 +1,6 @@
 [![I’m Dima Odintsov, A Front-end Developer from Israel. 🍩](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20Front-end%20Developer%20from%20Israel.%20%F0%9F%8D%A9&title=I%E2%80%99m%20Dima%20Odintsov)](https://pimp-my-readme.webapp.io)
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 <br/>
