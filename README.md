@@ -1,4 +1,4 @@
-[![I’m Dima Odintsov, A Front-end Developer from Israel. 🍩](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20Front-end%20Developer%20from%20Israel.%20%F0%9F%8D%A9&title=I%E2%80%99m%20Dima%20Odintsov)](https://pimp-my-readme.webapp.io)
+![I’m Dima Odintsov, A Front-end Developer from Israel. 🍩](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20Front-end%20Developer%20from%20Israel.%20%F0%9F%8D%A9&title=I%E2%80%99m%20Dima%20Odintsov)
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
@@ -50,7 +50,7 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
 <div align="center">  
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,styledcomponents,js,ts,react,redux,next,nodejs,express,dart,flutter,graphql,git,mongodb,firebase,appwrite,vscode,figma,&perline=7)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,styledcomponents,js,ts,react,redux,next,nodejs,express,dart,flutter,graphql,git,mongodb,firebase,appwrite,vscode,figma,&perline=7)
 
 </div>  
 
