@@ -16,16 +16,16 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
 <br/>
 <br/>
 
-- 🏢 I'm currently working as **Freelance Web Developer**.  
+- 🏢 I'm currently working as **Freelance Front-end Developer**.  
   
 
-- ⚙️ Daily use: `.js`, `.ts`, `.html`, `.scss`, `.css`, `.dart`, `.svg`, `.fig,` `.md`
+- ⚙️ Daily use: `.js`, `.ts`, `.html`, `.scss`, `.css`, `.json`, `.dart`, `.fig,` `.md`
   
 
 - 🌍 I'm mostly active within the **React** & **Flutter** communities  
   
 
-- ✨ Crafted last [Trackbay](https://trackbay.vercel.app/) website  
+- ✨ Crafted last [Diamond Marketing](https://www.diamondmarketing.io/) website  
   
 
 - 🌱 Learning all about **Web3**  
