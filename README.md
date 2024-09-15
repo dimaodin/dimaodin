@@ -87,10 +87,6 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
 <br/>  
 <br/>  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214d7kmqygv2omq5tjmkhk3zq&cover_image=true&theme=novatorem&bar_color=7900ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=214d7kmqygv2omq5tjmkhk3zq&redirect=true)
-
-<br/>
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave)
 
 <br/>
