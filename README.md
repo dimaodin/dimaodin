@@ -95,7 +95,7 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:hey@dimaod
 
 <br/> 
 
-<h6>Love, Dima Odintsov ❤️</h6>
+<h6>Love, Dima ❤️</h6>
 
 </div>
 
